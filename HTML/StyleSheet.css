@@ -14,7 +14,7 @@ font-family:Aharoni;
 
 h3{
 color:blue;
-font-familyGaramond;
+font-family:Garamond;
 }
 
 ul{
@@ -22,3 +22,12 @@ ul{
  color:yellow;
  font-family:"Iskoola Pota"; 
 }
+
+body{
+border-style:solid;
+}
+
+hr{
+color:red;
+}
+
