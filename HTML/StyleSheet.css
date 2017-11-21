@@ -16,3 +16,9 @@ h3{
 color:blue;
 font-familyGaramond;
 }
+
+ul{
+ list-style:lower-roman;
+ color:yellow;
+ font-family:"Iskoola Pota"; 
+}
